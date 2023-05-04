@@ -1,0 +1,21 @@
+@media only screen and (max-width: 600px) {
+.question-option li {
+        border-bottom: 1px solid #fff;
+        margin-top:20px ;
+    }
+body {
+    border: 5px solid hsl(209 66% 42% / 1);
+    height: 100%;
+    width: 100%;
+}
+.questions-text {
+    height: 250px;
+}
+.save-btn {
+  float: left;
+}
+.show-time {
+text-align: left;
+}
+
+}
